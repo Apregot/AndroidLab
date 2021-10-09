@@ -7,4 +7,10 @@
     <string name="shareFriends">Share friends</string>
     <string name="shareDescription" translatable="false">Great app!!!</string>
     <string name="profileBtnText">Profile</string>
+    <string name="text_label_1">События</string>
+    <string name="text_label_2" translatable="false">Праздники</string>
+    <string name="text_label_3">Профиль</string>
+    <string name="events_string" translatable="false">EVENTS</string>
+    <string name="holidays_string">HOLIDAYS</string>
+    <string name="profile_string">PROFILE</string>
 </resources>

@@ -5,4 +5,8 @@
     <string name="aboutLabel">О приложении</string>
     <string name="shareFriends">Рассказать друзьям</string>
     <string name="profileBtnText">Профиль</string>
+    <string name="text_label_1">События</string>
+    <string name="text_label_3">Профиль</string>
+    <string name="holidays_string">HOLIDAYS</string>
+    <string name="profile_string">PROFILE</string>
 </resources>

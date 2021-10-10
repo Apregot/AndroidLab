@@ -1,4 +1,4 @@
-package ru.myprojects.melnikov.memory.ui
+package ru.myprojects.melnikov.memory.ui.profile
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
